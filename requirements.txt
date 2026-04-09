@@ -1,0 +1,9 @@
+streamlit
+psycopg2-binary
+Pillow
+requests
+numpy
+pandas
+beautifulsoup4
+selenium
+webdriver-manager
